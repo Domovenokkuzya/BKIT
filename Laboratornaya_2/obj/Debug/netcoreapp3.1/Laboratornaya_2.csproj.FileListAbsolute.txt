@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\lab_2kurs_2020\Laboratornaya_2\obj\Debug\netcoreapp3.1\Laboratornaya_2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\lab_2kurs_2020\Laboratornaya_2\obj\Debug\netcoreapp3.1\Laboratornaya_2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lab_2kurs_2020\Laboratornaya_2\obj\Debug\netcoreapp3.1\Laboratornaya_2.AssemblyInfo.cs
+C:\Users\User\Desktop\lab_2kurs_2020\Laboratornaya_2\obj\Debug\netcoreapp3.1\Laboratornaya_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lab_2kurs_2020\Laboratornaya_2\bin\Debug\netcoreapp3.1\Laboratornaya_2.exe
+C:\Users\User\Desktop\lab_2kurs_2020\Laboratornaya_2\bin\Debug\netcoreapp3.1\Laboratornaya_2.deps.json
+C:\Users\User\Desktop\lab_2kurs_2020\Laboratornaya_2\bin\Debug\netcoreapp3.1\Laboratornaya_2.runtimeconfig.json
+C:\Users\User\Desktop\lab_2kurs_2020\Laboratornaya_2\bin\Debug\netcoreapp3.1\Laboratornaya_2.runtimeconfig.dev.json
+C:\Users\User\Desktop\lab_2kurs_2020\Laboratornaya_2\bin\Debug\netcoreapp3.1\Laboratornaya_2.dll
+C:\Users\User\Desktop\lab_2kurs_2020\Laboratornaya_2\bin\Debug\netcoreapp3.1\Laboratornaya_2.pdb
+C:\Users\User\Desktop\lab_2kurs_2020\Laboratornaya_2\obj\Debug\netcoreapp3.1\Laboratornaya_2.dll
+C:\Users\User\Desktop\lab_2kurs_2020\Laboratornaya_2\obj\Debug\netcoreapp3.1\Laboratornaya_2.pdb
+C:\Users\User\Desktop\lab_2kurs_2020\Laboratornaya_2\obj\Debug\netcoreapp3.1\Laboratornaya_2.genruntimeconfig.cache
